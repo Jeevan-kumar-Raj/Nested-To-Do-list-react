@@ -1,0 +1,47 @@
+{
+  "name": "nested-task-list-react",
+  "version": "0.1.0",
+  "description": "A highly functional nested task list prototype built with React  and Material-ui",
+    "author": "jeevan kumar",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/....."
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "material",
+    "material-ui"
+  ],
+  "license": "MIT",
+    "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-eslint": "^6.1.0",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-1": "^6.5.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "react-hot-loader": "^3.0.0-beta.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "material-ui": "^0.17.3",
+    "mobx": "^3.0.0",
+    "mobx-react": "^4.1.0",
+    "mobx-react-devtools": "^4.2.11",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-tap-event-plugin": "^2.0.1"
+  }
+}
